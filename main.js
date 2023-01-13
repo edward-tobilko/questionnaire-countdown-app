@@ -1,6 +1,6 @@
 /* Countdown App */
 
-const newYear = "1 January 2023";
+const newYear = "1 January 2024";
 
 const daysElement = document.getElementById("days");
 const hoursElement = document.getElementById("hours");
